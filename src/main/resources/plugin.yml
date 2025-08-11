@@ -1,0 +1,10 @@
+name: LuzPlugin
+main: com.THZIMX.luzplugin.LuzPlugin
+version: 1.0
+api-version: 1.21
+commands:
+  luz:
+    description: Ativa ou desativa a visão noturna.
+    usage: /luz
+    permission: luz.use
+    permission-message: Você não tem permissão para usar esse comando.
