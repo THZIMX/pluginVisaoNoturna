@@ -35,4 +35,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Contato
 
-Se tiver dúvidas, abra uma issue ou me chame no Discord: SeuNick#1234
+Se tiver dúvidas, abra uma issue ou me chame no Discord: theeuss_x
